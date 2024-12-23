@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mani53-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mani53-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mani53-dev" alt="mani53-dev" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/manikhan_5353" target="blank"><img src="https://img.shields.io/twitter/follow/manikhan_5353?logo=twitter&style=for-the-badge" alt="manikhan_5353" /></a> </p>
 
 - 🔭 I’m currently working on **Bossie**
