@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Abdur Rehman</h1>
 <h3 align="center">Mobile Application Developer | Flutter | SwiftUI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mani53-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mani53-dev" /> </p>
@@ -9,7 +8,7 @@
 
 - 🌱 I’m currently learning **AWS, Python, AI**
 
-- 📝 I regularly write articles on [https://medium.com/@manikhan53/websockets-with-getx-in-flutter-8ef4de4b91bd](https://medium.com/@manikhan53/websockets-with-getx-in-flutter-8ef4de4b91bd)
+- 📝 I regularly write articles on [https://medium.com/@manikhan53](https://medium.com/@manikhan53)
 
 - 💬 Ask me about **Flutter, Dart, SwiftUI, Node.js, Django**
 
